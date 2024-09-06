@@ -1,3 +1,4 @@
+![logo](https://github.com/prathamesh-07/prathamesh-07/blob/main/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
 <h1 align="center">Hi 👋, I'm Prathamesh Chiddarwar</h1>
 <h3 align="center">Computer Science Student | Aspiring Cybersecurity Professional | Student at MIT WPU</h3>
 
