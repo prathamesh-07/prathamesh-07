@@ -1,89 +1,22 @@
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/prathamesh-07/prathamesh-07/main/assets/banner.png"
-    alt="Prathamesh Chiddarwar — Full-stack developer and cybersecurity graduate"
-    width="100%"
-  />
-</p>
+![logo](https://github.com/prathamesh-07/prathamesh-07/blob/main/202650321-7f4da361-f98f-4345-8df4-adf352a11322.gif)
+<h1 align="center">Hi 👋, I'm Prathamesh Chiddarwar</h1>
+<h3 align="center">Computer Science Student | Student at MIT WPU</h3>
 
-<h3 align="center">Full-stack developer and cybersecurity graduate</h3>
+<img align="right" alt="coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
 
-<p align="center">
-  I build production web applications and apply security engineering principles — the two tracks run in parallel, not in sequence.
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh-07&label=Profile%20views&color=0e75b6&style=flat" alt="prathamesh-07" /> </p>
 
-<p align="center">
-  <a href="TODO_PORTFOLIO_URL">
-    <img src="https://img.shields.io/badge/Portfolio-050816?style=for-the-badge&logo=safari&logoColor=white&labelColor=6366F1" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="TODO_RESUME_URL">
-    <img src="https://img.shields.io/badge/Resume-050816?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=6366F1" alt="Resume PDF" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/prathamesh-chiddarwar">
-    <img src="https://img.shields.io/badge/LinkedIn-050816?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=6366F1" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:prathameshchiddarwar42@gmail.com">
-    <img src="https://img.shields.io/badge/Email-050816?style=for-the-badge&logo=gmail&logoColor=white&labelColor=6366F1" alt="Email" />
-  </a>
-</p>
+- 🔭 I’m currently working on **MERN - Stack Project**
 
----
+- 🌱 I’m currently learning **Cyber Security**
 
-## What I do
+- 👨‍💻 All of my projects are available at [https://github.com/prathamesh-07](https://github.com/prathamesh-07)
 
-| 🌐 Web development | 🔒 Cybersecurity |
-|---|---|
-| Full-stack apps with React, Next.js, Node and Express | Vulnerability and risk assessment with Burp Suite, Nmap, Nessus and Metasploit |
-| Role-based backends with JWT authentication | Phishing detection and email-authentication analysis (SPF / DKIM / DMARC) |
-| Cloud deployments on AWS EC2, Vercel and Firebase | AI-driven security research published at IEEE (ICTBIG 2024) |
+- 📫 How to reach me **prathameshchiddarwar42@gmail.com**
 
----
 
-## Featured work
 
-| Project | What it is | Stack | Link |
-|---|---|---|---|
-| Email Security Analyst | Phishing detection with TF-IDF classification and email-header analysis | Python, Flask, Scikit-learn | Coming soon |
-| CloudMigrate | Multi-cloud file orchestration with MD5 / SHA-256 integrity verification | Next.js, Python, AWS S3, GCP, Supabase | Coming soon |
-| ATMS | Enterprise asset-tracking with role-based access control | React, Node.js, MongoDB | Coming soon |
-| IEEE Paper | Real-Time Detection of AI-Generated Deepfake Audio — CNN + spectral features | ICTBIG 2024 | [DOI 10.1109/ICTBIG57409.2024.10911062](https://doi.org/10.1109/ICTBIG57409.2024.10911062) |
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-## Experience
-
-**Full Stack Developer Intern — DelPat LLP** *(Remote, Jun – Dec 2025)*
-Built and deployed 6+ production web apps, a JWT role-based CMS backend, a WordPress-to-React migration, a React Native app, and a reusable component library; shipped on AWS EC2, Vercel and Firebase.
-
-**Research — ICTBIG 2024, IEEE Xplore**
-Co-authored "Real-Time Detection of AI-Generated Deepfake Audio: A Novel Approach" — CNN-based classifier using spectral feature analysis.
-
-**B.Tech, Computer Science (Cyber Security and Forensics) — MIT World Peace University, Pune** *(2026)*
-Specialisation in cybersecurity, forensics and applied machine learning.
-
----
-
-## Tech stack
-
-**Web and cloud**
-
-[![Web skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,nextjs,nodejs,express,tailwind,mongodb,mysql,firebase,aws,vercel,gcp,supabase&theme=dark)](https://skillicons.dev)
-
-**Security tools** — text badges for tools without skillicons entries
-
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-050816?style=flat-square&logo=portswigger&logoColor=white&labelColor=050816&color=6366F1)
-![Nmap](https://img.shields.io/badge/Nmap-050816?style=flat-square&logoColor=white&labelColor=050816&color=6366F1)
-![Nessus](https://img.shields.io/badge/Nessus-050816?style=flat-square&logoColor=white&labelColor=050816&color=6366F1)
-![Metasploit](https://img.shields.io/badge/Metasploit-050816?style=flat-square&logoColor=white&labelColor=050816&color=6366F1)
-![Wireshark](https://img.shields.io/badge/Wireshark-050816?style=flat-square&logo=wireshark&logoColor=white&labelColor=050816&color=6366F1)
-
-**Certification:** Blockchain Evolution — GIAN Programme on Decentralised Systems, NIT Goa (2025)
-
----
-
-## Get in touch
-
-[prathameshchiddarwar42@gmail.com](mailto:prathameshchiddarwar42@gmail.com) · [linkedin.com/in/prathamesh-chiddarwar](https://linkedin.com/in/prathamesh-chiddarwar)
