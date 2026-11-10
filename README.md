@@ -2,9 +2,22 @@
 <h1 align="center">Hi 👋, I'm Prathamesh Chiddarwar</h1>
 <h3 align="center">Full-Stack Developer & Cybersecurity Graduate | B.Tech, MIT-WPU '26</h3>
 
+<p align="center">
+  <a href="https://linkedin.com/in/prathamesh-chiddarwar" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=050816" alt="Prathamesh Chiddarwar on LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:prathameshchiddarwar42@gmail.com">
+    <img src="https://img.shields.io/badge/Email-6366F1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=050816" alt="Email Prathamesh Chiddarwar" />
+  </a>
+</p>
+
 <img align="right" alt="Developer coding at desk with animated code on screens" width="400" src="https://raw.githubusercontent.com/prathamesh-07/prathamesh-07/main/assets/coding.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamesh-07&label=Profile%20views&color=6366F1&style=flat" alt="Profile views counter for prathamesh-07" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=prathamesh-07&label=Profile%20views&color=6366F1&style=flat" alt="Profile views counter for prathamesh-07" />
+  <img src="https://img.shields.io/github/followers/prathamesh-07?style=flat-square&labelColor=050816&color=6366F1&label=Followers&logo=github&logoColor=white" alt="GitHub followers count for prathamesh-07" />
+</p>
 
 - 🔭 I build full-stack web apps with **React, Next.js and Node.js**
 
@@ -21,7 +34,11 @@
 <h3 align="left">Featured work:</h3>
 
 - **Email Security Analyst**: phishing detection with Flask and Scikit-learn, including SPF/DKIM/DMARC checks
-- **CloudMigrate**: AWS S3 to Google Cloud Storage transfers with SHA-256 integrity checks (Next.js, Python) — [github.com/prathamesh-07/CloudMigrate](https://github.com/prathamesh-07/CloudMigrate)
+- **CloudMigrate**: AWS S3 to Google Cloud Storage transfers with SHA-256 integrity checks (Next.js, Python)
+  <br/><br/>
+  <a href="https://github.com/prathamesh-07/CloudMigrate" target="_blank" rel="noreferrer">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin?username=prathamesh-07&repo=CloudMigrate&bg_color=050816&border_color=1E212E&title_color=6366F1&icon_color=885CF5&text_color=E2E8F0&border_radius=12" alt="CloudMigrate repository" />
+  </a>
 - **ATMS**: asset management system with role-based access control (React, MongoDB)
 
 <h3 align="left">Languages and Tools:</h3>
@@ -56,4 +73,21 @@
   <img src="https://img.shields.io/badge/Nessus-6366F1?style=flat&labelColor=050816&color=6366F1&logo=tenable&logoColor=white" alt="Nessus vulnerability scanner" height="28"/>
   <img src="https://img.shields.io/badge/Metasploit-6366F1?style=flat&labelColor=050816&color=6366F1&logo=metasploit&logoColor=white" alt="Metasploit penetration testing framework" height="28"/>
   <img src="https://img.shields.io/badge/Wireshark-6366F1?style=flat&labelColor=050816&color=6366F1&logo=wireshark&logoColor=white" alt="Wireshark network protocol analyzer" height="28"/>
+</p>
+
+<br clear="all"/>
+
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=prathamesh-07&show_icons=true&include_all_commits=true&count_private=true&hide_rank=true&bg_color=050816&border_color=1E212E&title_color=6366F1&icon_color=885CF5&text_color=E2E8F0&border_radius=12&cache_seconds=86400" alt="GitHub stats: stars, commits, pull requests" />
+  &nbsp;
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=prathamesh-07&layout=compact&langs_count=8&bg_color=050816&border_color=1E212E&title_color=6366F1&text_color=E2E8F0&border_radius=12&cache_seconds=86400" alt="Top languages used across repositories" />
+</p>
+
+<p align="left">
+  <img src="https://streak-stats.demolab.com?user=prathamesh-07&background=050816&border=1E212E&stroke=1E212E&ring=6366F1&fire=FF7917&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=6366F1&sideLabels=94A3B8&dates=94A3B8&border_radius=12" alt="GitHub streak stats: current streak, longest streak, total contributions" />
+</p>
+
+<p align="left">
+  <img width="100%" src="https://activity-graph-ten.vercel.app/graph?username=prathamesh-07&bg_color=050816&color=E2E8F0&line=6366F1&point=885CF5&area=true&area_color=6366F1&hide_border=false&border_color=1E212E&custom_title=Contribution%20Activity" alt="GitHub contribution activity graph" />
 </p>
